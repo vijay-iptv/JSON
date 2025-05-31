@@ -702,7 +702,7 @@
     "channelLanguageId": "Tamil",
     "isCatchupAvailable": "True",
     "isHD": "True",
-    "logoUrl": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png",
+    "logoUrl": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Colors_Tamil_HD.png",
     "updatedAt": "Wed,25.Sep.2024 22:53:45 PM",
     "source": "https://jiotv.com",
     "author": "SnehKr"
