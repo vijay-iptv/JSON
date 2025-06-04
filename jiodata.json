@@ -1,5 +1,53 @@
 [
   {
+    "channel_id": 368,
+    "channel_name": "Star Vijay HD",
+    "channelCategoryId": "Entertainment",
+    "channelLanguageId": "Tamil",
+    "isCatchupAvailable": "True",
+    "isHD": "True",
+    "logoUrl": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Vijay_HD.png",
+    "updatedAt": "Wed,25.Sep.2024 22:53:45 PM",
+    "source": "https://jiotv.com",
+    "author": "SnehKr"
+  },
+  {
+    "channel_id": 1131,
+    "channel_name": "Vijay Super",
+    "channelCategoryId": "Movies",
+    "channelLanguageId": "Tamil",
+    "isCatchupAvailable": "True",
+    "isHD": "True",
+    "logoUrl": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Vijay_Super.PNG",
+    "updatedAt": "Wed,25.Sep.2024 22:53:45 PM",
+    "source": "https://jiotv.com",
+    "author": "SnehKr"
+  },
+  {
+    "channel_id": 1104,
+    "channel_name": "Star Movies HD",
+    "channelCategoryId": "Movies",
+    "channelLanguageId": "English",
+    "isCatchupAvailable": "True",
+    "isHD": "True",
+    "logoUrl": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Movies_HD.png",
+    "updatedAt": "Wed,25.Sep.2024 22:53:45 PM",
+    "source": "https://jiotv.com",
+    "author": "SnehKr"
+  },
+  {
+    "channel_id": 1110,
+    "channel_name": "Star Movies Select HD",
+    "channelCategoryId": "Movies",
+    "channelLanguageId": "English",
+    "isCatchupAvailable": "True",
+    "isHD": "True",
+    "logoUrl": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Movies_Select_HD.png",
+    "updatedAt": "Wed,25.Sep.2024 22:53:45 PM",
+    "source": "https://jiotv.com",
+    "author": "SnehKr"
+  },
+  {
     "channel_id": 143,
     "channel_name": "CNBC Tv18 Prime HD",
     "channelCategoryId": "Business",
