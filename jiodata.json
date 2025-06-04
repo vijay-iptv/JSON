@@ -12370,5 +12370,53 @@
     "updatedAt": "Wed,25.Sep.2024 22:53:45 PM",
     "source": "https://jiotv.com",
     "author": "SnehKr"
+  },
+  {
+    "channel_id": "0-9-zeetamil",
+    "channel_name": "Zee Tamil HD",
+    "channelCategoryId": "Entertainment",
+    "channelLanguageId": "Tamil",
+    "isCatchupAvailable": "True",
+    "isHD": "True",
+    "logoUrl": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Zee_Tamil_HD.png",
+    "updatedAt": "Wed,25.Sep.2024 22:53:45 PM",
+    "source": "https://jiotv.com",
+    "author": "SnehKr"
+  },
+  {
+      "channel_id": "0-9-224",
+      "channel_name": "Zee Thirai",
+      "channelCategoryId": "Movies",
+      "channelLanguageId": "Tamil",
+      "isCatchupAvailable": "True",
+      "isHD": "True",
+      "logoUrl": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Zee_Thirai.png",
+      "updatedAt": "Wed,25.Sep.2024 22:53:45 PM",
+      "source": "https://jiotv.com",
+      "author": "SnehKr"
+  },
+  {
+      "channel_id": "0-9-channel_2105335046",
+      "channel_name": "&flix HD",
+      "channelCategoryId": "Movies",
+      "channelLanguageId": "English",
+      "isCatchupAvailable": "True",
+      "isHD": "True",
+      "logoUrl": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Flix.PNG",
+      "updatedAt": "Wed,25.Sep.2024 22:53:45 PM",
+      "source": "https://jiotv.com",
+      "author": "SnehKr"
+  },
+  {
+      "channel_id": "0-9-9z5543514",
+      "channel_name": "&Prive HD",
+      "channelCategoryId": "Movies",
+      "channelLanguageId": "English",
+      "isCatchupAvailable": "True",
+      "isHD": "True",
+      "logoUrl": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Private.PNG",
+      "updatedAt": "Wed,25.Sep.2024 22:53:45 PM",
+      "source": "https://jiotv.com",
+      "author": "SnehKr"
   }
 ]
