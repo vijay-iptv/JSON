@@ -24,6 +24,18 @@
     "author": "SnehKr"
   },
   {
+    "channel_id": 3266,
+    "channel_name": "Vijay Super HD",
+    "channelCategoryId": "Movies",
+    "channelLanguageId": "Tamil",
+    "isCatchupAvailable": "True",
+    "isHD": "True",
+    "logoUrl": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Vijay_Super_HD.png",
+    "updatedAt": "Wed,25.Sep.2024 22:53:45 PM",
+    "source": "https://jiotv.com",
+    "author": "SnehKr"
+  },
+  {
     "channel_id": 1104,
     "channel_name": "Star Movies HD",
     "channelCategoryId": "Movies",
