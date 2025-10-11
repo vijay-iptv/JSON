@@ -4757,7 +4757,7 @@
     "source": "https://jiotv.com",
     "author": "SnehKr",
     "license_key": "b37ba9b4863b5f7eb688e5cf1a87a632:e70ba6bafa8d09ef77b8db687e19ae67",
-    "bts": "Malai_Murasu_BTS/output"
+    "bts": "Malaimurasu_Seithigal_BTS/output"
   },
   {
     "channel_id": 828,
@@ -8690,7 +8690,7 @@
     "channelLanguageId": "Tamil",
     "isCatchupAvailable": "True",
     "isHD": "True",
-    "logoUrl": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Moon_Tv.png",
+    "logoUrl": "https://tataprime.wordpress.com/wp-content/uploads/2024/03/20240313_0159072608720790962587693.png",
     "updatedAt": "Wed,25.Sep.2024 22:53:45 PM",
     "source": "https://jiotv.com",
     "author": "SnehKr",
@@ -9387,7 +9387,9 @@
     "logoUrl": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/MK_Six.png",
     "updatedAt": "Wed,25.Sep.2024 22:53:45 PM",
     "source": "https://jiotv.com",
-    "author": "SnehKr"
+    "author": "SnehKr",
+    "license_key": "b49a765e90eb5b43bdec0471ed4eda78:d4a55cf0dc5127b69e2c355ff4e35f15",
+    "bts": "MK_Six_BTS/output"
   },
   {
     "channel_id": 1655,
@@ -12865,7 +12867,9 @@
     "logoUrl": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Tamilan_TV.png",
     "updatedAt": "Wed,25.Sep.2024 22:53:45 PM",
     "source": "https://jiotv.com",
-    "author": "SnehKr"
+    "author": "SnehKr",
+    "license_key": "0328b5e577ec583b854806e143a81d12:0804b49a7aaed6347639f463a9c653bb",
+    "bts": "Tamilan_Television_BTS/output"
   },
   {
     "channel_id": 2959,
@@ -13309,7 +13313,9 @@
     "logoUrl": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Tamil_Janam.png",
     "updatedAt": "Wed,25.Sep.2024 22:53:45 PM",
     "source": "https://jiotv.com",
-    "author": "SnehKr"
+    "author": "SnehKr",
+    "license_key": "4de4a5c05118507d8e7e81390addc2a7:f80ec85f9713e4e28616d77179d414ce",     
+    "bts": "Janam_Tamil_BTS/output"
   },
   {
     "channel_id": 3048,
