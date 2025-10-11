@@ -13423,7 +13423,9 @@
     "logoUrl": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Thanthi_1.png",
     "updatedAt": "Wed,25.Sep.2024 22:53:45 PM",
     "source": "https://jiotv.com",
-    "author": "SnehKr"
+    "author": "SnehKr",
+    "license_key": "f1cc3d31477255288c5a6e47be0ba0bb:b99afce91d2fddfb3a4c01df22fb5964",     
+    "bts": "Thanti_One_BTS/output"
   },
   {
     "channel_id": 3060,
