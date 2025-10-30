@@ -12929,7 +12929,9 @@
     "logoUrl": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Velicham_TV.png",
     "updatedAt": "Wed,25.Sep.2024 22:53:45 PM",
     "source": "https://jiotv.com",
-    "author": "SnehKr"
+    "author": "SnehKr",
+    "license_key": "6a40f6ece7b65a6bb24d3f014d9a17fe:8900c1fe1b29b585597e02f76dc8c479",
+    "bts": "Velicham_Tv_BTS/output"
   },
   {
     "channel_id": 3005,
