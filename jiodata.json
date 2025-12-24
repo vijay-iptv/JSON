@@ -87,7 +87,7 @@
     "channel_id": 1106,
     "channel_name": "Star Sports 1 HD",
     "channelCategoryId": "Sports",
-    "channelLanguageId": "English",
+    "channelLanguageId": "Sports",
     "isCatchupAvailable": "True",
     "isHD": "True",
     "logoUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png",
@@ -101,7 +101,7 @@
     "channel_id": 1109,
     "channel_name": "Star Sports 2 HD",
     "channelCategoryId": "Sports",
-    "channelLanguageId": "English",
+    "channelLanguageId": "Sports",
     "isCatchupAvailable": "True",
     "isHD": "True",
     "logoUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png",
@@ -1030,6 +1030,20 @@
     "author": "SnehKr",
     "license_key": "ce16454b1fc85beab2f807af176046bb:ff67cca83c770daa6dc9c295cc76564f",
     "bts": "Discovery_HD_World_BTS/output"
+  },
+   {
+    "channel_id": 821,
+    "channel_name": "Sony BBC Earth HD",
+    "channelCategoryId": "Infotainment",
+    "channelLanguageId": "English",
+    "isCatchupAvailable": "True",
+    "isHD": "True",
+    "logoUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SOBBHD1_Thumbnail-v4/SOBBHD1_Thumbnail.png",
+    "updatedAt": "Wed,25.Sep.2024 22:53:45 PM",
+    "source": "https://jiotv.com",
+    "author": "SnehKr",
+    "license_key": "f45e69507f0f5aa1a6e82374efb0af25:f84348219837769feb5a26a7b1cd31dc",
+    "bts": "SonyBBCEarthHin_BTS/output"
   },
   {
     "channel_id": 464,
@@ -5079,7 +5093,9 @@
     "logoUrl": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Sony_Yay.png",
     "updatedAt": "Wed,25.Sep.2024 22:53:45 PM",
     "source": "https://jiotv.com",
-    "author": "SnehKr"
+    "author": "SnehKr",
+    "license_key": "d48f57d25a6b5fb3b2d38d1f8e7e25a4:93e43fff8c073946af5054366bc0926b",
+    "bts": "SonyYAYHin_BTS/output"
   },
   {
     "channel_id": 874,
@@ -8769,15 +8785,17 @@
   },
   {
     "channel_id": 1530,
-    "channel_name": "Sony Pix SD",
+    "channel_name": "Sony Pix HD",
     "channelCategoryId": "Movies",
     "channelLanguageId": "English",
     "isCatchupAvailable": "False",
     "isHD": "False",
-    "logoUrl": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_SD.png",
+    "logoUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-93-j5fjv614-v3/imageContent-93-j5fjv614-m3.png",
     "updatedAt": "Wed,25.Sep.2024 22:53:45 PM",
     "source": "https://jiotv.com",
-    "author": "SnehKr"
+    "author": "SnehKr",
+    "license_key": "00426b6344e351f491f324a94b62cd2f:ae3a59fe9918e7180ed65e2c842f7cc8",
+    "bts": "SonyPIX_BTS/output"
   },
   {
     "channel_id": 1531,
