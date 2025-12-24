@@ -14172,7 +14172,7 @@
     "bts": "Star_Sports_Select_1_BTS/output"
   },
   {
-    "channel_id": 300,
+    "channel_id": 460,
     "channel_name": "Star Sports Select 1 HD",
     "channelCategoryId": "Sports",
     "channelLanguageId": "English",
@@ -14189,7 +14189,7 @@
     "channel_id": 1114,
     "channel_name": "Star Sports Select 2",
     "channelCategoryId": "Sports",
-    "channelLanguageId": "Enlgish",
+    "channelLanguageId": "English",
     "isCatchupAvailable": "False",
     "isHD": "False",
     "logoUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png",
@@ -14206,7 +14206,7 @@
     "channelLanguageId": "English",
     "isCatchupAvailable": "False",
     "isHD": "False",
-    "logoUrl": "",
+    "logoUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png",
     "updatedAt": "Sun,14.Sep.2025 20:50:05 PM",
     "source": "https://jiotv.com",
     "author": "SnehKr",
@@ -14217,7 +14217,7 @@
     "channel_id": 1124,
     "channel_name": "Star Sports 1 Tamil",
     "channelCategoryId": "Unknown",
-    "channelLanguageId": "Unknown",
+    "channelLanguageId": "Tamil",
     "isCatchupAvailable": "False",
     "isHD": "False",
     "logoUrl": "",
@@ -17470,8 +17470,8 @@
     "updatedAt": "Sat,20.Dec.2025 12:41:10 AM",
     "source": "https://jiotv.com",
     "author": "@techiesneh",
-    "license_key": "8a0d5007c45c5547b36901dc5f125c41:d474651d58ba24f6a779e0772e240138",
-    "bts": "IDHDHindi_BTS/output"
+    "license_key": "8d2754e59a025dd2a9fd98c15fe8e45d:b13562dae0e15973a2ea562c76ce292f",
+    "bts": "DiscoveryHDHin_BTS/output"
   },
   {
     "channel_id": 3446,
