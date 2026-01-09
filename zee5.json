@@ -62,7 +62,7 @@
     "updatedAt": "Thu,05.Jun.2025 11:13:51 PM",
     "source": "https://jiotv.com",
     "author": "SnehKr",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2104969/AndPriveHDELENEW/index-connected.m3u8"
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/And-Prive-HD/index-connected.m3u8"
   },
   {
     "channel_id": "0-9-zeepunjabharyanahima",
@@ -543,7 +543,7 @@
     "updatedAt": "Thu,05.Jun.2025 11:13:51 PM",
     "source": "https://jiotv.com",
     "author": "SnehKr",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105517/AndFlixHDELE/index-connected.m3u8"
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/And-Flix-HD/index-connected.m3u8"
   },
   {
     "channel_id": "0-9-channel_1144658965",
@@ -868,7 +868,7 @@
     "updatedAt": "Thu,05.Jun.2025 11:13:51 PM",
     "source": "https://jiotv.com",
     "author": "SnehKr",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105172/ZeeThiraiHDELE/index-connected.m3u8"
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Thirai-HD/index-connected.m3u8"
   },
   {
     "channel_id": "0-9-9z5398761",
