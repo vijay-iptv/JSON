@@ -1,5 +1,19 @@
 [
   {
+    "channel_id": 2065,
+    "channel_name": "Zee Thirai HD",
+    "channelCategoryId": "Movie",
+    "channelLanguageId": "Tamil",
+    "isCatchupAvailable": "True",
+    "isHD": "True",
+    "logoUrl": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Zee_Thirai_HD.png",
+    "updatedAt": "Wed,25.Sep.2024 22:53:45 PM",
+    "source": "https://jiotv.com",
+    "author": "SnehKr",
+    "license_key": "95b726ce54c05713ac6bf540ee64ca87:8e1bc81913c474311b79ca988c087f2a",
+    "bts": "ZeeThiraiHD_MOB/WDVLive"
+  },
+  {
     "channel_id": 368,
     "channel_name": "Star Vijay HD",
     "channelCategoryId": "Entertainment",
