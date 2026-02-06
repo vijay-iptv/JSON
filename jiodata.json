@@ -1063,7 +1063,7 @@
     "channel_id": 821,
     "channel_name": "Sony BBC Earth HD",
     "channelCategoryId": "Infotainment",
-    "channelLanguageId": "English",
+    "channelLanguageId": "Tamil",
     "isCatchupAvailable": "True",
     "isHD": "True",
     "logoUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SOBBHD1_Thumbnail-v4/SOBBHD1_Thumbnail.png",
@@ -14644,7 +14644,7 @@
     "channelLanguageId": "English",
     "isCatchupAvailable": "False",
     "isHD": "True",
-    "logoUrl": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Movies_Now_HD.png",
+    "logoUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12095-j9ooixfs-v1/imageContent-12095-j9ooixfs-m1.png",
     "updatedAt": "Sat,20.Dec.2025 12:41:10 AM",
     "source": "https://jiotv.com",
     "author": "@techiesneh"
@@ -14680,7 +14680,7 @@
     "channelLanguageId": "English",
     "isCatchupAvailable": "False",
     "isHD": "True",
-    "logoUrl": "https://jiotv.catchup.cdn.jio.com/dare_images/images/MNPLUS.png",
+    "logoUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-826-j5m9kx5c-v1/imageContent-826-j5m9kx5c-m1.png",
     "updatedAt": "Sat,20.Dec.2025 12:41:10 AM",
     "source": "https://jiotv.com",
     "author": "@techiesneh"
@@ -14764,7 +14764,7 @@
     "channelLanguageId": "English",
     "isCatchupAvailable": "False",
     "isHD": "True",
-    "logoUrl": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Movies_Now2_HD.png",
+    "logoUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12216-j9qm5hjs-v2/imageContent-12216-j9qm5hjs-m2.png",
     "updatedAt": "Sat,20.Dec.2025 12:41:10 AM",
     "source": "https://jiotv.com",
     "author": "@techiesneh"
@@ -14824,7 +14824,7 @@
     "channelLanguageId": "English",
     "isCatchupAvailable": "False",
     "isHD": "False",
-    "logoUrl": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Romedy_Now_HD.png",
+    "logoUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-751-j5l5kb9k-v3/imageContent-751-j5l5kb9k-m3.png",
     "updatedAt": "Sat,20.Dec.2025 12:41:10 AM",
     "source": "https://jiotv.com",
     "author": "@techiesneh"
