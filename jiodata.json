@@ -1,19 +1,5 @@
 [
   {
-    "channel_id": 2065,
-    "channel_name": "Zee Thirai HD",
-    "channelCategoryId": "Movie",
-    "channelLanguageId": "Tamil",
-    "isCatchupAvailable": "True",
-    "isHD": "True",
-    "logoUrl": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Zee_Thirai_HD.png",
-    "updatedAt": "Wed,25.Sep.2024 22:53:45 PM",
-    "source": "https://jiotv.com",
-    "author": "SnehKr",
-    "license_key": "95b726ce54c05713ac6bf540ee64ca87:8e1bc81913c474311b79ca988c087f2a",
-    "bts": "ZeeThiraiHD_MOB/WDVLive"
-  },
-  {
     "channel_id": 368,
     "channel_name": "Star Vijay HD",
     "channelCategoryId": "Entertainment",
@@ -68,6 +54,34 @@
     "author": "SnehKr",
     "license_key": "ecdf4d18807e55bf814c3f40656a33c3:0031af1bf42234195cda0eb88fd6003b",
     "bts": "Vijay_Takkar_BTS/output"
+  },
+  {
+    "channel_id": 608,
+    "channel_name": "Zee Tamil HD",
+    "channelCategoryId": "Entertainment",
+    "channelLanguageId": "Tamil",
+    "isCatchupAvailable": "True",
+    "isHD": "True",
+    "logoUrl": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Zee_Tamil_HD.png",
+    "updatedAt": "Wed,25.Sep.2024 22:53:45 PM",
+    "source": "https://jiotv.com",
+    "author": "SnehKr",
+    "license_key": "e9dd4aa4accd53188659c4a7b45bd8c4:920ff1a99835cfeb26d4c0db04ee58bd",
+    "bts": "ZeeTamilHD_MOB/WDVLive"
+  },
+  {
+    "channel_id": 2065,
+    "channel_name": "Zee Thirai HD",
+    "channelCategoryId": "Movie",
+    "channelLanguageId": "Tamil",
+    "isCatchupAvailable": "True",
+    "isHD": "True",
+    "logoUrl": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Zee_Thirai_HD.png",
+    "updatedAt": "Wed,25.Sep.2024 22:53:45 PM",
+    "source": "https://jiotv.com",
+    "author": "SnehKr",
+    "license_key": "95b726ce54c05713ac6bf540ee64ca87:8e1bc81913c474311b79ca988c087f2a",
+    "bts": "ZeeThiraiHD_MOB/WDVLive"
   },
   {
     "channel_id": 1332,
