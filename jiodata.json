@@ -15743,6 +15743,7 @@
   },
   {
     "channel_id": 3201,
+    "denver_id": 302706,
     "channel_name": "Sana TV",
     "channelCategoryId": "Entertainment",
     "channelLanguageId": "Tamil",
@@ -16860,6 +16861,7 @@
   },
   {
     "channel_id": 3356,
+    "denver_id": 304013,
     "channel_name": "Suriyan TV",
     "channelCategoryId": "Movies",
     "channelLanguageId": "Tamil",
@@ -16885,6 +16887,7 @@
   },
   {
     "channel_id": 3358,
+    "denver_id": 304014,
     "channel_name": "Anandham TV",
     "channelCategoryId": "Movies",
     "channelLanguageId": "Tamil",
@@ -16898,6 +16901,7 @@
   },
   {
     "channel_id": 3359,
+    "denver_id": 304017,
     "channel_name": "Sana Plus",
     "channelCategoryId": "Music",
     "channelLanguageId": "Tamil",
@@ -16911,6 +16915,7 @@
   },
   {
     "channel_id": 3360,
+    "denver_id": 304015,
     "channel_name": "Subin TV",
     "channelCategoryId": "Entertainment",
     "channelLanguageId": "Tamil",
@@ -17164,6 +17169,7 @@
   },
   {
     "channel_id": 3393,
+    "denver_id": 304038,
     "channel_name": "NTC TV",
     "channelCategoryId": "Entertainment",
     "channelLanguageId": "Tamil",
@@ -17177,6 +17183,7 @@
   },
   {
     "channel_id": 3394,
+    "denver_id": 304039,
     "channel_name": "Suriya TV",
     "channelCategoryId": "Entertainment",
     "channelLanguageId": "Tamil",
@@ -17202,6 +17209,7 @@
   },
   {
     "channel_id": 3396,
+    "denver_id": 304041,
     "channel_name": "Ultimate TV",
     "channelCategoryId": "Music",
     "channelLanguageId": "Tamil",
@@ -17299,6 +17307,7 @@
   },
   {
     "channel_id": 3409,
+    "denver_id": 304055,
     "channel_name": "Roja TV",
     "channelCategoryId": "Entertainment",
     "channelLanguageId": "Tamil",
@@ -17312,6 +17321,7 @@
   },
   {
     "channel_id": 3417,
+    "denver_id": 304054,
     "channel_name": "Roja Movies",
     "channelCategoryId": "Movies",
     "channelLanguageId": "Tamil",
