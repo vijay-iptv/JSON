@@ -14647,6 +14647,9 @@
     "logoUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12095-j9ooixfs-v1/imageContent-12095-j9ooixfs-m1.png",
     "updatedAt": "Sat,20.Dec.2025 12:41:10 AM",
     "source": "https://jiotv.com",
+    "drm": "yes",
+    "license_key": "40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e",
+    "bts": "moviesnow_wv_drm",
     "author": "@techiesneh"
   },
   {
@@ -14683,6 +14686,9 @@
     "logoUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-826-j5m9kx5c-v1/imageContent-826-j5m9kx5c-m1.png",
     "updatedAt": "Sat,20.Dec.2025 12:41:10 AM",
     "source": "https://jiotv.com",
+    "drm": "yes",
+    "license_key": "40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e",
+    "bts": "mnplus_wv_drm",
     "author": "@techiesneh"
   },
   {
@@ -14767,6 +14773,9 @@
     "logoUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12216-j9qm5hjs-v2/imageContent-12216-j9qm5hjs-m2.png",
     "updatedAt": "Sat,20.Dec.2025 12:41:10 AM",
     "source": "https://jiotv.com",
+    "drm": "yes",
+    "license_key": "40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e",
+    "bts": "mnxhd_wv_drm",
     "author": "@techiesneh"
   },
   {
@@ -14806,6 +14815,34 @@
     "author": "@techiesneh"
   },
   {
+    "channel_id": 1322,
+    "channel_name": "&Flix HD",
+    "channelCategoryId": "Movies",
+    "channelLanguageId": "English",
+    "isCatchupAvailable": "False",
+    "isHD": "True",
+    "logoUrl": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Flix.PNG",
+    "updatedAt": "Sun,14.Sep.2025 20:50:05 PM",
+    "source": "https://jiotv.com",
+    "author": "SnehKr",
+    "license_key": "0d0317b57c045842a700483a46f1212e:cd9f07a43e89b32bf3af1bfc7e6c84b2",
+    "bts": "AndFlixHD_BTS/output"
+  },
+  {
+    "channel_id": 1349,
+    "channel_name": "&Prive HD",
+    "channelCategoryId": "Movies",
+    "channelLanguageId": "English",
+    "isCatchupAvailable": "False",
+    "isHD": "True",
+    "logoUrl": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Private.PNG",
+    "updatedAt": "Sun,14.Sep.2025 20:50:05 PM",
+    "source": "https://jiotv.com",
+    "author": "SnehKr",
+    "license_key": "5060ddebb51c57a1825a18ca70e24014:e61277adab8ff7dd8314ae0287556787",
+    "bts": "AndPriveHD_MOB/WDVLive"
+  },
+  {
     "channel_id": 1366,
     "channel_name": "Wow Cinema One",
     "channelCategoryId": "Movies",
@@ -14827,6 +14864,9 @@
     "logoUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-751-j5l5kb9k-v3/imageContent-751-j5l5kb9k-m3.png",
     "updatedAt": "Sat,20.Dec.2025 12:41:10 AM",
     "source": "https://jiotv.com",
+    "drm": "yes",
+    "license_key": "40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e",
+    "bts": "romedynow_wv_drm",
     "author": "@techiesneh"
   },
   {
