@@ -14816,7 +14816,7 @@
   },
   {
     "channel_id": 1322,
-    "channel_name": "&Flix HD",
+    "channel_name": "& Flix HD",
     "channelCategoryId": "Movies",
     "channelLanguageId": "English",
     "isCatchupAvailable": "False",
@@ -14830,7 +14830,7 @@
   },
   {
     "channel_id": 1349,
-    "channel_name": "And Prive HD",
+    "channel_name": "& Prive HD",
     "channelCategoryId": "Movies",
     "channelLanguageId": "English",
     "isCatchupAvailable": "False",
