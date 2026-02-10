@@ -14830,7 +14830,7 @@
   },
   {
     "channel_id": 1349,
-    "channel_name": "&Prive HD",
+    "channel_name": "And Prive HD",
     "channelCategoryId": "Movies",
     "channelLanguageId": "English",
     "isCatchupAvailable": "False",
@@ -15793,7 +15793,7 @@
     "updatedAt": "Sat,20.Dec.2025 12:41:10 AM",
     "source": "https://jiotv.com",
     "key":"no",
-    "bts": "sanaplus/HLSPartner",
+    "bts": "sanatv/HLSPartner",
     "author": "@techiesneh"
   },
   {
