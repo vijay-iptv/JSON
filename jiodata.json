@@ -1061,7 +1061,7 @@
   },
    {
     "channel_id": 821,
-    "channel_name": "Sony BBC Earth HD",
+    "channel_name": "Sony BBC Earth HD Tamil",
     "channelCategoryId": "Infotainment",
     "channelLanguageId": "Tamil",
     "isCatchupAvailable": "True",
@@ -1070,8 +1070,8 @@
     "updatedAt": "Wed,25.Sep.2024 22:53:45 PM",
     "source": "https://jiotv.com",
     "author": "SnehKr",
-    "license_key": "f45e69507f0f5aa1a6e82374efb0af25:f84348219837769feb5a26a7b1cd31dc",
-    "bts": "SonyBBCEarthHin_BTS/output"
+    "license_key": "08855f130a055b2bbc9e6be66fd0f612:975ee9573958379452d7952377f687ff",
+    "bts": "SonyBBCEarthTam_MOB/WDVLive"
   },
   {
     "channel_id": 464,
