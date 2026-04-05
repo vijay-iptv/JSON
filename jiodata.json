@@ -81,7 +81,8 @@
     "source": "https://jiotv.com",
     "author": "SnehKr",
     "license_key": "f533110565935b4899a9440721d330fc:fafd814a78b22b6ada60c15964e1d09b",
-    "bts": "ZeeThiraiHD_MOB/WDVLive"
+    "bts": "ZeeThiraiHD_MOB/WDVLive",
+    "mob":"yes"
   },
   {
     "channel_id": 1332,
@@ -701,7 +702,8 @@
     "source": "https://jiotv.com",
     "author": "SnehKr",
     "license_key": "a62d4ca4ef095564bede0fe525956634:5e34a5126bfe29c18947046513f18cce",
-    "bts": "sonic_Tamil_MOB/WDVLive"
+    "bts": "sonic_Tamil_MOB/WDVLive",
+    "mob":"yes"
   },
   {
     "channel_id": 291,
@@ -923,7 +925,8 @@
     "source": "https://jiotv.com",
     "author": "SnehKr",
     "license_key": "531467efbbf156d793766adfe62d6a26:3e4eef5502a6da48b91894c33310ea93",
-    "bts": "J_Movies_MOB/WDVLive"
+    "bts": "J_Movies_MOB/WDVLive",
+    "mob":"yes"
   },
   {
     "channel_id": 418,
@@ -1071,7 +1074,8 @@
     "source": "https://jiotv.com",
     "author": "SnehKr",
     "license_key": "08855f130a055b2bbc9e6be66fd0f612:975ee9573958379452d7952377f687ff",
-    "bts": "SonyBBCEarthTam_MOB/WDVLive"
+    "bts": "SonyBBCEarthTam_MOB/WDVLive",
+    "mob":"yes"
   },
   {
     "channel_id": 464,
@@ -1875,7 +1879,8 @@
     "source": "https://jiotv.com",
     "author": "SnehKr",
     "license_key": "ace8ad8aaff258edb8743bea9825d2d2:89bbc643fba2d72470ee30668ec749c9",
-    "bts": "Pogo_Tam_MOB/WDVLive"
+    "bts": "Pogo_Tam_MOB/WDVLive",
+    "mob":"yes"
   },
   {
     "channel_id": 543,
@@ -1931,7 +1936,8 @@
     "source": "https://jiotv.com",
     "author": "SnehKr",
     "license_key": "7abfb289bb2f5747be84407b70dbd689:c5745d4c06cb52aff050298db0f7d9d9",
-    "bts": "Nick_Tam_MOB/WDVLive"
+    "bts": "Nick_Tam_MOB/WDVLive",
+    "mob":"yes"
   },
   {
     "channel_id": 548,
@@ -1959,7 +1965,8 @@
     "source": "https://jiotv.com",
     "author": "SnehKr",
     "license_key": "527df4ddb18a530db7565fff6c06263f:b4ca95df03a230ba8e23a7226de77d05",
-    "bts": "DiscoveryKidsTam_MOB/WDVLive"
+    "bts": "DiscoveryKidsTam_MOB/WDVLive",
+    "mob":"yes"
   },
   {
     "channel_id": 551,
@@ -2029,7 +2036,8 @@
     "source": "https://jiotv.com",
     "author": "SnehKr",
     "license_key": "b6c198ef16ac5c5f8891dade7f781773:2be7b4ae3582fc2531dc1c36dd0fe91a",
-    "bts": "Chutti_TV_MOB/WDVLive"
+    "bts": "Chutti_TV_MOB/WDVLive",
+    "mob":"yes"
   },
   {
     "channel_id": 558,
@@ -2321,7 +2329,8 @@
     "source": "https://jiotv.com",
     "author": "SnehKr",
     "license_key": "0f9371552c9b5d4ea83b97b455285d97:d8751df166bb3b7f5b995268f4a77f67",
-    "bts": "History_18_Tamil_MOB/WDVLive"
+    "bts": "History_18_Tamil_MOB/WDVLive",
+    "mob":"yes"
   },
   {
     "channel_id": 580,
@@ -3325,7 +3334,8 @@
     "source": "https://jiotv.com",
     "author": "SnehKr",
     "license_key": "b9d4acedc66c5660a1e06197a55bccd2:dd53bab1a42f41ae8f0a5c8fd286f456",
-    "bts": "Sun_News_MOB/WDVLive"
+    "bts": "Sun_News_MOB/WDVLive",
+    "mob":"yes"
   },
   {
     "channel_id": 677,
@@ -3367,7 +3377,8 @@
     "source": "https://jiotv.com",
     "author": "SnehKr",
     "license_key": "03fff2c1ecea574b98da00b05c2a0be9:41670b42142fa8ba6bd3cf9fc2ae8cf5",
-    "bts": "Sun_Life_MOB/WDVLive"
+    "bts": "Sun_Life_MOB/WDVLive",
+    "mob":"yes"
   },
   {
     "channel_id": 683,
@@ -3643,7 +3654,8 @@
     "source": "https://jiotv.com",
     "author": "SnehKr",
     "license_key": "b7d2d1228b275e219c9cdb282038d4c3:d75d95afc4a181803d2188456a052477",
-    "bts": "Adithya_TV_MOB/WDVLive"
+    "bts": "Adithya_TV_MOB/WDVLive",
+    "mob":"yes"
   },
   {
     "channel_id": 710,
@@ -4775,7 +4787,8 @@
     "source": "https://jiotv.com",
     "author": "SnehKr",
     "license_key": "553fc9bdb0115b24b23d04be203d1b9d:a220f0a32aaee1e6989ef8e6a6728fe1",
-    "bts": "CNTamil_MOB/WDVLive"
+    "bts": "CNTamil_MOB/WDVLive",
+    "mob":"yes"
   },
   {
     "channel_id": 824,
@@ -5123,7 +5136,8 @@
     "source": "https://jiotv.com",
     "author": "SnehKr",
     "license_key": "e28fc2f196045ad5a74c7eee8e4973f3:41e9517d0be1f231017a04ad93a866a1",
-    "bts": "SonyYAYTam_MOB/WDVLive"
+    "bts": "SonyYAYTam_MOB/WDVLive",
+    "mob":"yes"
   },
   {
     "channel_id": 874,
@@ -5297,7 +5311,8 @@
     "source": "https://jiotv.com",
     "author": "SnehKr",
     "license_key": "ba9bfe750a56514e9c63c456fad1e428:e0ca0ee9dbaac2942753d928b92824c5",
-    "bts": "KTV_HD_MOB/WDVLive"
+    "bts": "KTV_HD_MOB/WDVLive",
+    "mob":"yes"
   },
   {
     "channel_id": 895,
@@ -5311,7 +5326,8 @@
     "source": "https://jiotv.com",
     "author": "SnehKr",
     "license_key": "fa0c0f2dd6ce50208b77e16976e38d90:7f83a8e5178b6562d81968886fc3fe8a",
-    "bts": "Sun_Music_HD_MOB/WDVLive"
+    "bts": "Sun_Music_HD_MOB/WDVLive",
+    "mob":"yes"
   },
   {
     "channel_id": 896,
@@ -5325,7 +5341,8 @@
     "source": "https://jiotv.com",
     "author": "SnehKr",
     "license_key": "f415c124a07c595b97c43cc9a96ded30:59e6c93d4fe43353b34a71eb87185aaa",
-    "bts": "Sun_TV_HD_MOB/WDVLive"
+    "bts": "Sun_TV_HD_MOB/WDVLive",
+    "mob":"yes"
   },
   {
     "channel_id": 897,
@@ -6493,7 +6510,8 @@
     "source": "https://jiotv.com",
     "author": "SnehKr",
     "license_key": "83997e19da7f5b15a53c150730a91f31:605f420d088427d95b55275eb174b734",
-    "bts": "CNHDTamil_MOB/WDVLive"
+    "bts": "CNHDTamil_MOB/WDVLive",
+    "mob":"yes"
   },
   {
     "channel_id": 1082,
@@ -7119,7 +7137,8 @@
     "source": "https://jiotv.com",
     "author": "SnehKr",
     "license_key": "95d44d9a97a45af5bef4bb4034a5c777:1fb42ac605e429f3b5a061d377a491f4",
-    "bts": "AnimalPlanetHDTam_MOB/WDVLive"
+    "bts": "AnimalPlanetHDTam_MOB/WDVLive",
+    "mob":"yes"
   },
   {
     "channel_id": 1220,
@@ -7979,7 +7998,8 @@
     "source": "https://jiotv.com",
     "author": "SnehKr",
     "license_key": "0729280e18465f30a437fae60b0de8c7:f5db301fe989d18fc10d29c836a3a2c7",
-    "bts": "Colors_Tamil_MOB/WDVLive"
+    "bts": "Colors_Tamil_MOB/WDVLive",
+    "mob":"yes"
   },
   {
     "channel_id": 1378,
@@ -14840,7 +14860,8 @@
     "source": "https://jiotv.com",
     "author": "SnehKr",
     "license_key": "5060ddebb51c57a1825a18ca70e24014:e61277adab8ff7dd8314ae0287556787",
-    "bts": "AndPriveHD_MOB/WDVLive"
+    "bts": "AndPriveHD_MOB/WDVLive",
+    "mob":"yes"
   },
   {
     "channel_id": 1366,
@@ -17587,7 +17608,8 @@
     "source": "https://jiotv.com",
     "author": "@techiesneh",
     "license_key": "04e509459aa95cf5888dd0f640406169:15125b0bfde0ecdae3fea895c19c7278",
-    "bts": "DiscoveryHDTam_MOB/WDVLive"
+    "bts": "DiscoveryHDTam_MOB/WDVLive",
+    "mob":"yes"
   },
   {
     "channel_id": 3446,
