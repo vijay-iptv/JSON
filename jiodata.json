@@ -2944,7 +2944,7 @@
     "updatedAt": "Wed,25.Sep.2024 22:53:45 PM",
     "source": "https://jiotv.com",
     "author": "SnehKr",
-    "license_key": "a37237ae6f795a0fa2c8a72cc2c5cfa7:08be015e5f0f080cc4629376aead465a",
+    "license_key": "ba0a790e27b95d8e9b8efbed923167f6:16313d871a82a6b8b15b5e32a4c764da",
     "bts": "Polimer_News_MOB/WDVLive",
     "mob": "yes"
   },
@@ -4649,8 +4649,9 @@
     "updatedAt": "Wed,25.Sep.2024 22:53:45 PM",
     "source": "https://jiotv.com",
     "author": "SnehKr",
-    "license_key": "2ea6469898f65ed6b88b1718c99d7a32:067fb846ee90c5d6820cc463eb6824c8",
-    "bts": "Peppers_TV_BTS/output"
+    "license_key": "130db049d48151f9bff9eab26044bf01:a59f6bf5bd47145426117ff41908b9da",
+    "bts": "Peppers_TV_MOB/WDVLive",
+    "mob":"yes"
   },
   {
     "channel_id": 797,
@@ -4701,8 +4702,9 @@
     "updatedAt": "Wed,25.Sep.2024 22:53:45 PM",
     "source": "https://jiotv.com",
     "author": "SnehKr",
-    "license_key": "b0c237a374cd57bb80afeec16f6ab680:08dab9f7242dbd95f1e494a96f6fdad8",
-    "bts": "Tunes_6_BTS/output"
+    "license_key": "94903701b04e50e6b8a22fc68e8ff75a:854801b80cbc750d842bb4ca67b525bf",
+    "bts": "Tunes_6_MOB/WDVLive",
+    "mob":"yes"
   },
   {
     "channel_id": 804,
@@ -4857,7 +4859,7 @@
     "updatedAt": "Wed,25.Sep.2024 22:53:45 PM",
     "source": "https://jiotv.com",
     "author": "SnehKr",
-    "license_key": "b37ba7b4863b5f7eb688e5cf1a87a632:e70ba6bafa8d09ef77b8db687e19ae67",
+    "license_key": "b37ba9b4863b5f7eb688e5cf1a87a632:e70ba6bafa8d09ef77b8db687e19ae67",
     "bts": "Malaimurasu_Seithigal_MOB/WDVLive",
     "mob": "yes"
   },
@@ -4985,7 +4987,7 @@
     "updatedAt": "Wed,25.Sep.2024 22:53:45 PM",
     "source": "https://jiotv.com",
     "author": "SnehKr",
-    "license_key": "e395f7decfe956f3b78a33f629b39a34:9a774e4d71fdbed14373c9a809504cc9",
+    "license_key": "d395f7decfe956f3b78a33f629b39a34:9a774e4d71fdbed14373e9a809504ccd",
     "bts": "Madhimugam_TV_MOB/WDVLive",
     "mob": "yes"
   },
@@ -5112,8 +5114,9 @@
     "updatedAt": "Wed,25.Sep.2024 22:53:45 PM",
     "source": "https://jiotv.com",
     "author": "SnehKr",
-    "license_key": "9b6c4374605e5b4590522d6443990f67:7833ec685f36ca55a76de74f6504ed8e",
-    "bts": "Vendhar_TV_BTS/output"
+    "license_key": "638a323e21705916b8038fde9d4eda58:a70c49a078b63728079b84d0d335adeb",
+    "bts": "Vendhar_TV_MOB/WDVLive",
+    "mob":"yes"
   },
   {
     "channel_id": 858,
