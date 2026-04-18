@@ -1,5 +1,20 @@
 [
   {
+    "channel_id": 1130,
+    "channel_name": "Star Vijay",
+    "channelCategoryId": "Entertainment",
+    "channelLanguageId": "Tamil",
+    "isCatchupAvailable": "True",
+    "isHD": "True",
+    "logoUrl": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Vijay_HD.png",
+    "updatedAt": "Wed,25.Sep.2024 22:53:45 PM",
+    "source": "https://jiotv.com",
+    "author": "SnehKr",
+    "license_key": "c5f2861efbc7552ba802dcae4e160359:4ea32867828280a4d6f36ea8fbbe38eb",
+    "bts": "Star_Vijay_MOB/WDVLive",
+    "mob": "yes"
+  },
+  {
     "channel_id": 368,
     "channel_name": "Star Vijay HD",
     "channelCategoryId": "Entertainment",
@@ -10,8 +25,9 @@
     "updatedAt": "Wed,25.Sep.2024 22:53:45 PM",
     "source": "https://jiotv.com",
     "author": "SnehKr",
-    "license_key": "849d6b062b645abea937ec7f2b6b1686:1f65503420b88d11a16d4a4eacd95f0f",
-    "bts": "Star_Vijay_HD_BTS/output"
+    "license_key": "25dd000e5523540cbd82ae7957fef7d7:f1d145d84b648242ef0b3ad2cac7eeb8",
+    "bts": "Star_Vijay_HD_MOB/WDVLive",
+    "mob": "yes"
   },
   {
     "channel_id": 1131,
