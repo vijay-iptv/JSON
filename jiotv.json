@@ -3461,32 +3461,32 @@
     "key": "no"
   },
   {
-    "language": "Unknown",
+    "language": "English",
     "channel_id": "852",
     "channel_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/SonyBBCEarthEng_MOB/WDVLive/index.mpd",
     "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyBBCEarthEng.png",
     "channel_name": "Sony BBC Earth HD English",
-    "channel_genre": "Unknown",
+    "channel_genre": "English",
     "license_key": "1552919e6aab593486923334022a0adc:5365d8f2afcfbfeccfbff08db7f671fe",
     "key": "yes"
   },
   {
-    "language": "Unknown",
+    "language": "Tamil",
     "channel_id": "853",
     "channel_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/SonyBBCEarthTam_MOB/WDVLive/index.mpd",
     "channel_logo": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Sony_BBC_Earth_HD_Tamil.png",
     "channel_name": "Sony BBC Earth HD Tamil",
-    "channel_genre": "Unknown",
+    "channel_genre": "Tamil",
     "license_key": "08855f130a055b2bbc9e6be66fd0f612:975ee9573958379452d7952377f687ff",
     "key": "yes"
   },
   {
-    "language": "Unknown",
+    "language": "Telugu",
     "channel_id": "854",
     "channel_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/SonyBBCEarthTel_MOB/WDVLive/index.mpd",
     "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyBBCEarthTel.png",
     "channel_name": "Sony BBC Earth HD Telugu",
-    "channel_genre": "Unknown",
+    "channel_genre": "Telugu",
     "license_key": "a27b652e1c7d5dd2b752da161317168a:6c93d6b6fca86a51db17c05ddc800710",
     "key": "yes"
   },
@@ -6111,14 +6111,14 @@
     "key": "no"
   },
   {
-    "language": "Unknown",
+    "language": "Tamil",
     "channel_id": "1511",
-    "channel_url": "https://nw18live.cdn.jio.com/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/index.m3u8",
+    "channel_url": ""https://jiotvmblive.cdn.jio.com/bpk-tv/News18TamilNadu_MOB/WDVLive/index.mpd"",
     "channel_logo": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/News_18_Tamilnadu.png",
     "channel_name": "News18 Tamil Nadu.",
-    "channel_genre": "Unknown",
-    "license_key": null,
-    "key": "no"
+    "channel_genre": "Tamil",
+    "license_key": "4c4a4f1133895b87ad55e29bfc12d0f5:d30a43b4a5880b6a31916d6952548307",
+    "key": "yes"
   },
   {
     "language": "Unknown",
@@ -11251,22 +11251,22 @@
     "key": "yes"
   },
   {
-    "language": "Unknown",
+    "language": "Tamil",
     "channel_id": "3445",
     "channel_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/DiscoveryHDTam_MOB/WDVLive/index.mpd",
     "channel_logo": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Discovery_HD_Tamil.png",
     "channel_name": "Discovery HD Tamil",
-    "channel_genre": "Unknown",
+    "channel_genre": "Tamil",
     "license_key": "04e509459aa95cf5888dd0f640406169:15125b0bfde0ecdae3fea895c19c7278",
     "key": "yes"
   },
   {
-    "language": "Unknown",
+    "language": "Telugu",
     "channel_id": "3446",
     "channel_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/DiscoveryHDTel_MOB/WDVLive/index.mpd",
     "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DiscoveryHDTel.png",
     "channel_name": "Discovery HD Telugu",
-    "channel_genre": "Unknown",
+    "channel_genre": "Telugu",
     "license_key": "e27ae3a6764e5040b8ae942ef65b5543:651c362c87414d40a5400e5bd4cc3970",
     "key": "yes"
   },
