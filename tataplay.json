@@ -3055,7 +3055,7 @@
         "id": "611",
         "name": "Sirippoli",
         "languageName": "Tamil",
-        "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12244-j9qq7k1c-v1/imageContent-12244-j9qq7k1c-m1.png",
+        "logo_url": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Sirippoli.png",
         "licence_key": "83062897feaa5812b81101efd3ae5889:cb36a0a70b92af407a2cc0c54c55435c"
     },
     {
@@ -3223,14 +3223,14 @@
         "id": "647",
         "name": "Isaiaruvi",
         "languageName": "Tamil",
-        "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24578-jgotgry0-v1/imageContent-24578-jgotgry0-m1.png",
+        "logo_url": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Isaiaruvi.png",
         "licence_key": "40f9c99892d35f5885a512d465c2141d:e2c7095cace1281f1f5790e9b6847aac"
     },
     {
         "id": "411",
         "name": "Murasu TV",
         "languageName": "Tamil",
-        "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11616-j9k04eo0-v1/imageContent-11616-j9k04eo0-m1.png",
+        "logo_url": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Murasu_TV.png",
         "licence_key": "2e8083800f6b5fff8451cc27bbb588ce:ef57cb821b8f45ca3976480821a214c9"
     },
     {
