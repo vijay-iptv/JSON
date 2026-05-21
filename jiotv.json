@@ -10951,12 +10951,12 @@
     "key": "no"
   },
   {
-    "language": "Unknown",
+    "language": "Tamil",
     "channel_id": "3395",
     "channel_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/aryatvtamil/HLSPartner/index.m3u8",
-    "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/aryatvtamil.png",
+    "channel_logo": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Arya_TV_Tamil.png",
     "channel_name": "Aaryaa TV",
-    "channel_genre": "Unknown",
+    "channel_genre": "Tamil",
     "license_key": null,
     "key": "no"
   },
