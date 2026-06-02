@@ -1240,12 +1240,12 @@
     "key": "yes"
   },
   {
-    "language": "Unknown",
+    "language": "Hindi",
     "channel_id": "3451",
     "channel_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/AnimalPlanetHDHin_BTS/WDVLive/index.mpd",
     "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/AnimalPlanetHDHin.png",
     "channel_name": "Animal Planet HD Hindi",
-    "channel_genre": "Unknown",
+    "channel_genre": "Hindi",
     "license_key": "6e56dee54bd4596b8ba528012fd3c7e7:c10f10e9b4926b13a6627c99ec0fae1c",
     "key": "yes"
   },
@@ -1310,12 +1310,12 @@
     "key": "yes"
   },
   {
-    "language": "Unknown",
+    "language": "Hindi",
     "channel_id": "527",
     "channel_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/IDHindi_BTS/WDVLive/index.mpd",
     "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/IDHindi.png",
     "channel_name": "Investigation Discovery Hindi",
-    "channel_genre": "Unknown",
+    "channel_genre": "Hindi",
     "license_key": "da494c4a7a545a0ab48b3f893e1feeeb:59b6b3a2a476a00cabefa77623d0d0c1",
     "key": "yes"
   },
