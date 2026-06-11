@@ -925,6 +925,17 @@
   },
   {
     "language": "Tamil",
+    "channel_id": "141058",
+    "channel_url": "https://sundirectgo-live.pc.cdn.bitgravity.com/hd516/dth.mpd",
+    "channel_logo": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Sun_Life.png",
+    "channel_name": "Sun Life",
+    "channel_genre": "Tamil",
+    "license_key": "6e020e8591908bc066e95022962c3042:2f7b5d3f89485281d27a73687f629b3b",
+    "key": "yes",
+    "pssh": "AAAAQnBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACIIARIQXYrUSB+LRChE++tuepdQ7xoFTmFncmEiBWhkNTAy"
+  },
+  {
+    "language": "Tamil",
     "channel_id": "141070",
     "channel_url": "https://sundirectgo-live.pc.cdn.bitgravity.com/hd503/dth.mpd",
     "channel_logo": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Sun_Music_HD.png",
