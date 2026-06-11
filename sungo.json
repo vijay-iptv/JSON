@@ -177,6 +177,17 @@
   },
   {
     "language": "Tamil",
+    "channel_id": "141051",
+    "channel_url": "https://sundirectgo-live.pc.cdn.bitgravity.com/src741/dth.mpd",
+    "channel_logo": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Jaya_TV_HD.png",
+    "channel_name": "Jaya TV HD",
+    "channel_genre": "Tamil",
+    "license_key": "cd2cba12bc8d0f50372d23921309f690:b69b44f6323c6a8182ab9ce08328d218",
+    "key": "yes",
+    "pssh": "AAAAQ3Bzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACMIARIQzSy6EryND1A3LSOSEwn2kBoFTmFncmEiBnNyYzYwNA=="
+  },
+  {
+    "language": "Tamil",
     "channel_id": "149120",
     "channel_url": "https://sundirectgo-live.pc.cdn.bitgravity.com/src620/dth.mpd",
     "channel_logo": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Jaya_Max.png",
@@ -908,7 +919,7 @@
     "channel_logo": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/KTV_HD.png",
     "channel_name": "KTV HD",
     "channel_genre": "Tamil",
-    "license_key": "5d8ad4481f8b442844fbeb6e7a9750ef:8e96a4da18d442a4c70a37110eb323c2",
+    "license_key": "882777783626340c7a1d59a871a301cf:ad72fe0d7e9092a4dc9e71aedfc29caf",
     "key": "yes",
     "pssh": "AAAAQnBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACIIARIQXYrUSB+LRChE++tuepdQ7xoFTmFncmEiBWhkNTAy"
   },
@@ -920,6 +931,83 @@
     "channel_name": "Sun Music HD",
     "channel_genre": "Tamil",
     "license_key": "85bfd9cce3fa2471340792430c53f26e:2dd2093ecc27958ecc54a505ab284098",
+    "key": "yes",
+    "pssh": "AAAAQnBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACIIARIQhb/ZzOP6JHE0B5JDDFPybhoFTmFncmEiBWhkNTAz"
+  },
+  {
+    "language": "Tamil",
+    "channel_id": "141057",
+    "channel_url": "https://sundirectgo-live.pc.cdn.bitgravity.com/hd507/dth.mpd",
+    "channel_logo": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Adithya_TV.png",
+    "channel_name": "Adithya TV",
+    "channel_genre": "Tamil",
+    "license_key": "bfb9159440d27a1ba58e37cf3cd70cd9:a5517888854b89b126f14b0031fc3eb8",
+    "key": "yes",
+    "pssh": "AAAAQnBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACIIARIQhb/ZzOP6JHE0B5JDDFPybhoFTmFncmEiBWhkNTAz"
+  },
+  {
+    "language": "Tamil",
+    "channel_id": "141157",
+    "channel_url": "https://sundirectgo-live.pc.cdn.bitgravity.com/src701/dth.mpd",
+    "channel_logo": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Chutti_TV.png",
+    "channel_name": "Chutti TV",
+    "channel_genre": "Tamil",
+    "license_key": "85bfd9cce3fa2471340792430c53f26e:2dd2093ecc27958ecc54a505ab284098",
+    "key": "yes",
+    "pssh": "AAAAQnBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACIIARIQhb/ZzOP6JHE0B5JDDFPybhoFTmFncmEiBWhkNTAz"
+  },
+  {
+    "language": "Tamil",
+    "channel_id": "149054",
+    "channel_url": "https://sundirectgo-live.pc.cdn.bitgravity.com/svc287/dth.mpd",
+    "channel_logo": "https://tataprime.wordpress.com/wp-content/uploads/2024/03/20240313_0159072608720790962587693.png",
+    "channel_name": "Moon TV",
+    "channel_genre": "Tamil",
+    "license_key": "38b7d64d20b1e87c8b9ca5b57a693881:266dbbe7e9ac85a2aa8f47eac46f6eb5",
+    "key": "yes",
+    "pssh": "AAAAQnBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACIIARIQhb/ZzOP6JHE0B5JDDFPybhoFTmFncmEiBWhkNTAz"
+  },
+  {
+    "language": "Tamil",
+    "channel_id": "141178",
+    "channel_url": "https://sundirectgo-live.pc.cdn.bitgravity.com/src605/dth.mpd",
+    "channel_logo": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Vaanavil_TV.png",
+    "channel_name": "Vaanavil",
+    "channel_genre": "Tamil",
+    "license_key": "172bd520f386d1381206862db43b88af:97594f286ab3f97d14728395653454ee",
+    "key": "yes",
+    "pssh": "AAAAQnBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACIIARIQhb/ZzOP6JHE0B5JDDFPybhoFTmFncmEiBWhkNTAz"
+  },
+  {
+    "language": "Tamil",
+    "channel_id": "141095",
+    "channel_url": "https://sundirectgo-live.pc.cdn.bitgravity.com/src611/dth.mpd",
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-111-j5fl5xo8-v1/imageContent-111-j5fl5xo8-m1.png",
+    "channel_name": "Mega TV",
+    "channel_genre": "Tamil",
+    "license_key": "ff61aca1efd85879fbeac5037e8d432b:b2dc731178aa25ce6e1efc09311ea0ae",
+    "key": "yes",
+    "pssh": "AAAAQnBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACIIARIQhb/ZzOP6JHE0B5JDDFPybhoFTmFncmEiBWhkNTAz"
+  },
+  {
+    "language": "Tamil",
+    "channel_id": "149129",
+    "channel_url": "https://sundirectgo-live.pc.cdn.bitgravity.com/src670/dth.mpd",
+    "channel_logo": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Sony_Ten_4.png",
+    "channel_name": "Sony Sports Ten 4 Tamil",
+    "channel_genre": "Tamil",
+    "license_key": "85af0ae251df47a894bb204e78ef8e6c:14d7f79e6378c83d71562767924959af",
+    "key": "yes",
+    "pssh": "AAAAQnBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACIIARIQhb/ZzOP6JHE0B5JDDFPybhoFTmFncmEiBWhkNTAz"
+  },
+  {
+    "language": "Tamil",
+    "channel_id": "143225",
+    "channel_url": "https://sundirectgo-live.pc.cdn.bitgravity.com/src621/dth.mpd",
+    "channel_logo": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Puthiya_Thalaimurai.png",
+    "channel_name": "Puthiya Thalaimurai",
+    "channel_genre": "Tamil",
+    "license_key": "b0a501869fbebdfd12624cbe650a8f81:dfe2de9d2de25ec3f759600e40c0159b",
     "key": "yes",
     "pssh": "AAAAQnBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACIIARIQhb/ZzOP6JHE0B5JDDFPybhoFTmFncmEiBWhkNTAz"
   },
