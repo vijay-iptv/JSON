@@ -841,7 +841,7 @@
         "channel_name": "Puthiya Thalaimurai",
         "language": "Tamil",
         "channel_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Puthiya_Thalimurai_BTS/WDVLive/index.mpd",
-        "channel_logo": "https://img.media.jio.com/imagespublic/4/45/PuthiyaThalimurai_1574695054999_tv.jpg",
+        "channel_logo": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Puthiya_Thalaimurai.png",
         "channel_genre": "News",
         "license_key": "adfefde497a8588d8f976761abd76e41:9d40d8ce521b0f6bd702bc23ed53abbf",
         "key": "yes"
@@ -5120,7 +5120,7 @@
         "channel_name": "Vaanavil  TV",
         "language": "Tamil",
         "channel_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Vaanavil_TV_BTS/WDVLive/index.mpd",
-        "channel_logo": "https://img.media.jio.com/imagespublic/66/19/301394_1684327509247_l_medium.jpg",
+        "channel_logo": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Vaanavil_TV.png",
         "channel_genre": "Entertainment",
         "license_key": "302f3506f49453e988440e6a68bfe816:0b274d040add5d5c12ddb318c0099c71",
         "key": "yes"
@@ -7155,7 +7155,7 @@
         "channel_name": "Thanti One",
         "language": "Tamil",
         "channel_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Thanti_One_BTS/WDVLive/index.mpd",
-        "channel_logo": "https://img.media.jio.com/imagespublic/46/65/301742_1725963061251_l_medium.jpg",
+        "channel_logo": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Thanthi_1.png",
         "channel_genre": "Entertainment",
         "license_key": "f1cc3d31477255288c5a6e47be0ba0bb:b99afce91d2fddfb3a4c01df22fb5964",
         "key": "yes"
@@ -8398,7 +8398,7 @@
         "channel_name": "Angel TV",
         "language": "Tamil",
         "channel_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Angel_TV_HD_BTS/WDVLive/index.mpd",
-        "channel_logo": "https://img.media.jio.com/tvpimages/63/2/301933_1739338585966_l_medium.jpg",
+        "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11230-j9icx1i0-v1/imageContent-11230-j9icx1i0-m1.png",
         "channel_genre": "Devotional",
         "license_key": "adefcb4d05a554258957ff4cd685227b:ba7bc4caa9c54a0fb17c1b2b6d2321c6",
         "key": "yes"
@@ -8904,7 +8904,7 @@
         "channel_name": "OM TV",
         "language": "Tamil",
         "channel_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/OM_TV_BTS/WDVLive/index.mpd",
-        "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/OM_TV.png",
+        "channel_logo": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/OM_TV.png",
         "channel_genre": "Devotional",
         "license_key": "e422cbcf1ea4503ea34f88c0a7968c54:6c5302033440acff24231ff13ac1fbcb",
         "key": "yes"
@@ -10070,7 +10070,7 @@
         "channel_name": "Bhagyam TV",
         "language": "Tamil",
         "channel_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/aanadhamtvtamil/HLSPartner/index.m3u8",
-        "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/aanadhamtvtamil.png",
+        "channel_logo": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Bhagyam_TV.png",
         "channel_genre": "Devotional",
         "license_key": "",
         "key": "no"
@@ -10092,7 +10092,7 @@
         "channel_name": "Dharsan TV",
         "language": "Tamil",
         "channel_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/dharshantvtamil/HLSPartner/index.m3u8",
-        "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/dharshantvtamil.png",
+        "channel_logo": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Dharsan_TV.png",
         "channel_genre": "Devotional",
         "license_key": "",
         "key": "no"
@@ -10345,7 +10345,7 @@
         "channel_name": "Brio TV",
         "language": "Tamil",
         "channel_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Brio_TV_BTS/WDVLive/index.mpd",
-        "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Brio_TV.png",
+        "channel_logo": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Brio_TV.png",
         "channel_genre": "Entertainment",
         "license_key": "5c9d0b8b2caa5064ab09444ed2ce0a55:67a55978ea61f8c1d826b52e99aca82e",
         "key": "yes"
