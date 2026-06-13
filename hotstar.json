@@ -157,7 +157,7 @@
         "channel_logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1199/1752742701199-h",
         "channel_url": "https://livetv.hotstar.com/out/v1/llg-tv-mum/1540066005_tamil_7d12a83c/gec-india_hls_unencrypted/master-ap-1080-4.m3u8",
         "license_key": "",
-        "key": "yes"
+        "key": "no"
     },
     {
         "channel_id": "1540043657",
@@ -165,7 +165,7 @@
         "channel_logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_256/sources/r1/cms/prod/3380/1752743343380-h",
         "channel_url": "https://livetv.hotstar.com/out/v1/llg-tv-mum/1540065996_tamil_e5e5a418/gec-india_hls_unencrypted/master-ap-1080-4.m3u8",
         "license_key": "",
-        "key": "yes"
+        "key": "no"
     },
     {
         "channel_id": "1540043663",
@@ -173,7 +173,7 @@
         "channel_logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_256/sources/r1/cms/prod/4044/1752743564044-h",
         "channel_url": "https://livetv.hotstar.com/out/v1/llg-tv-mum/1540066002_tamil_de83b1db/gec-india_hls_unencrypted/master-ap-1080-4.m3u8",
         "license_key": "",
-        "key": "yes"
+        "key": "no"
     },
     {
         "channel_id": "1540043660",
@@ -181,7 +181,7 @@
         "channel_logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_256/sources/r1/cms/prod/7405/1752743467405-h",
         "channel_url": "https://livetv.hotstar.com/out/v1/llg-tv-mum/1540065993_tamil_0fe06fa1/gec-india_hls_unencrypted/master-ap-1080-4.m3u8",
         "license_key": "",
-        "key": "yes"
+        "key": "no"
     },
     {
         "channel_id": "1540043654",
@@ -189,7 +189,7 @@
         "channel_logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_256/sources/r1/cms/prod/8708/1752743198708-h",
         "channel_url": "https://livetv.hotstar.com/out/v1/llg-tv-mum/1540065999_tamil_9be72647/gec-india_hls_unencrypted/master-ap-1080-4.m3u8",
         "license_key": "",
-        "key": "yes"
+        "key": "no"
     },
     {
         "channel_id": "1540044879",
@@ -197,7 +197,7 @@
         "channel_logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_256/sources/r1/cms/prod/2214/1750777602214-h",
         "channel_url": "https://livetv.hotstar.com/out/v1/llg-tv-mum/1540065990_hindi_38333ea5/gec-india_hls_unencrypted/master-ap-1080-4.m3u8",
         "license_key": "",
-        "key": "yes"
+        "key": "no"
     },
     {
         "channel_id": "1540040039",
@@ -205,6 +205,6 @@
         "channel_logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_256/sources/r1/cms/prod/5745/1750779565745-h",
         "channel_url": "https://livetv.hotstar.com/out/v1/llg-tv-mum/1540065984_hindi_786cf674/gec-india_hls_unencrypted/master-ap-1080-4.m3u8",
         "license_key": "",
-        "key": "yes"
+        "key": "no"
     }
 ]
