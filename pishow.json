@@ -1,0 +1,142 @@
+[
+  {
+    "id": "1",
+    "name": "Polimer News",
+    "language_name": "Tamil",
+    "logo_url": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Polimer_News.png",
+    "stream_url": "https://cdn-3.pishow.tv/live/1245/master.m3u8"
+  },
+  {
+    "id": "2",
+    "name": "Polimer TV",
+    "language_name": "Tamil",
+    "logo_url": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Polimer_TV.png",
+    "stream_url": "https://cdn-2.pishow.tv/live/1241/master.m3u8"
+  },
+  {
+    "id": "3",
+    "name": "Puthiya Thalaimurai",
+    "language_name": "Tamil",
+    "logo_url": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Puthiya_Thalaimurai.png",
+    "stream_url": "https://cdn-3.pishow.tv/live/1261/master.m3u8"
+  },
+  {
+    "id": "4",
+    "name": "Thanthi TV",
+    "language_name": "Tamil",
+    "logo_url": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Thanthi_TV.png",
+    "stream_url": "https://cdn-3.pishow.tv/live/1612/master.m3u8"
+  },
+  {
+    "id": "5",
+    "name": "News7 Tamil",
+    "language_name": "Tamil",
+    "logo_url": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/News_7.png",
+    "stream_url": "https://cdn-3.pishow.tv/live/1498/master.m3u8"
+  },
+  {
+    "id": "6",
+    "name": "News Tamil 24x7",
+    "language_name": "Tamil",
+    "logo_url": "https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-1433.png",
+    "stream_url": "https://cdn-3.pishow.tv/live/1433/master.m3u8"
+  },
+  {
+    "id": "7",
+    "name": "VASANTH TV",
+    "language_name": "Tamil",
+    "logo_url": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/News_Tamil_24x7.png",
+    "stream_url": "https://cdn-3.pishow.tv/live/1247/master.m3u8"
+  },
+  {
+    "id": "8",
+    "name": "Malaimurasu Seithigal",
+    "language_name": "Tamil",
+    "logo_url": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Malai_Murasu.png",
+    "stream_url": "https://cdn-3.pishow.tv/live/1606/master.m3u8"
+  },
+  {
+    "id": "9",
+    "name": "DD Podhigai",
+    "language_name": "Tamil",
+    "logo_url": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/D_Tamil.png",
+    "stream_url": "https://cdn-2.pishow.tv/live/26/master.m3u8"
+  },
+  {
+    "id": "10",
+    "name": "Tamilan Television",
+    "language_name": "Tamil",
+    "logo_url": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Tamilan_TV.png",
+    "stream_url": "https://cdn-3.pishow.tv/live/1259/master.m3u8"
+  },
+  {
+    "id": "11",
+    "name": "MALAR TV",
+    "language_name": "Tamil",
+    "logo_url": "https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-473.png",
+    "stream_url": "https://cdn-3.pishow.tv/live/473/master.m3u8"
+  },
+  {
+    "id": "12",
+    "name": "Vendhar TV",
+    "language_name": "Tamil",
+    "logo_url": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Vendhar_TV.png",
+    "stream_url": "https://cdn-3.pishow.tv/live/1271/master.m3u8"
+  },
+  {
+    "id": "13",
+    "name": "SHALINI TV",
+    "language_name": "Tamil",
+    "logo_url": "https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-1381.png",
+    "stream_url": "https://cdn-2.pishow.tv/live/1381/master.m3u8"
+  },
+  {
+    "id": "14",
+    "name": "NAMBIKKAI TV",
+    "language_name": "Tamil",
+    "logo_url": "https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-1389.png",
+    "stream_url": "https://cdn-3.pishow.tv/live/1389/master.m3u8"
+  },
+  {
+    "id": "15",
+    "name": "SAIRAM TV",
+    "language_name": "Tamil",
+    "logo_url": "https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-1611.png",
+    "stream_url": "https://cdn-3.pishow.tv/live/1611/master.m3u8"
+  },
+  {
+    "id": "17",
+    "name": "Kalaignar Chithiram",
+    "language_name": "Tamil",
+    "logo_url": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Chithiram.png",
+    "stream_url": "https://cdn-6.pishow.tv/live/1243/master.m3u8"
+  },
+  {
+    "id": "18",
+    "name": "Peppers TV",
+    "language_name": "Tamil",
+    "logo_url": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Peppers_TV.png",
+    "stream_url": "https://cdn-2.pishow.tv/live/1383/master.m3u8"
+  },
+  {
+    "id": "20",
+    "name": "MK SIX",
+    "language_name": "Tamil",
+    "logo_url": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/MK_Six.png",
+    "stream_url": "https://cdn-3.pishow.tv/live/1253/master.m3u8"
+  },
+  {
+    "id": "21",
+    "name": "7S MUSIC",
+    "language_name": "Tamil",
+    "logo_url": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/7s_Music.png",
+    "stream_url": "https://cdn-3.pishow.tv/live/1257/master.m3u8"
+  },
+  {
+    "id": "22",
+    "name": "MAHA MOVIE",
+    "language_name": "Tamil",
+    "logo_url": "https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-10007.png",
+    "stream_url": "https://cdn-6.pishow.tv/live/10007/master.m3u8"
+  }
+]
