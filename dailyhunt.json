@@ -1,0 +1,65 @@
+[
+  {
+    "id": "1",
+    "name": "Vasanth TV",
+    "language_name": "Tamil",
+    "logo_url": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Vasanth_TV.png",
+    "stream_url": "https://live-cf-vasanthtv.dailyhunt.in/master.m3u8"
+  },
+  {
+    "id": "2",
+    "name": "News 7 Tamil",
+    "language_name": "Tamil",
+    "logo_url": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/News_7.png",
+    "stream_url": "https://live-news7tamil.dailyhunt.in/News7Tamil/playlist.m3u8"
+  },
+  {
+    "id": "3",
+    "name": "Sathiyam TV",
+    "language_name": "Tamil",
+    "logo_url": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Sathiyam_TV.png",
+    "stream_url": "https://live-cf-sathiyamtv.dailyhunt.in/master.m3u8"
+  },
+  {
+    "id": "4",
+    "name": "News J",
+    "language_name": "Tamil",
+    "logo_url": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/News_J.png",
+    "stream_url": "https://live-cf-newsj.dailyhunt.in/master.m3u8"
+  },
+  {
+    "id": "5",
+    "name": "Kalaignar News",
+    "language_name": "Tamil",
+    "logo_url": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Kalaignar_Seithigal.png",
+    "stream_url": "https://live-cf-kalaignarnews.dailyhunt.in/master.m3u8"
+  },
+  {
+    "id": "6",
+    "name": "Polimer News",
+    "language_name": "Tamil",
+    "logo_url": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Polimer_News.png",
+    "stream_url": "https://live-cf-polimernews.dailyhunt.in/master.m3u8"
+  },
+  {
+    "id": "7",
+    "name": "Malai Murasu",
+    "language_name": "Tamil",
+    "logo_url": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Malai_Murasu.png",
+    "stream_url": "https://live-cf-malaimurasu.dailyhunt.in/master.m3u8"
+  },
+  {
+    "id": "8",
+    "name": "Puthiya Thalaimurai",
+    "language_name": "Tamil",
+    "logo_url": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Puthiya_Thalaimurai.png",
+    "stream_url": "https://live-sk-puthiyathalaimurai.dailyhunt.in/Puthiyathalamurai/playlist.m3u8"
+  },
+  {
+    "id": "9",
+    "name": "Zee Tamil News",
+    "language_name": "Tamil",
+    "logo_url": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Zee_Tamil_News.png",
+    "stream_url": "https://dpkvdnzbeen1l.cloudfront.net/index_4.m3u8"
+  }
+]
