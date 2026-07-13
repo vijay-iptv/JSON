@@ -1098,5 +1098,82 @@
     "channel_genre": "Entertainment",
     "license_key": "5db40298c3275697a024e9bf753aeb77:8eb8213e8357f352620e17d38b1ce60f",
     "key": "yes"
+  },
+  {
+    "content_id": "304072",
+    "channel_id": "3444",
+    "channel_name": "Discovery HD",
+    "language": "Hindi",
+    "channel_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/DiscoveryHDHin_BTS/WDVLive/index.mpd",
+    "channel_logo": "https://img.media.jio.com/tvpimages/67/36/304072_1765355351193_l_medium.jpg",
+    "channel_genre": "Infotainment",
+    "license_key": "8d2754e59a025dd2a9fd98c15fe8e45d:b13562dae0e15973a2ea562c76ce292f",
+    "key": "yes"
+  },
+  {
+      "content_id": "304073",
+      "channel_id": "3451",
+      "channel_name": "Animal Planet HD",
+      "language": "Hindi",
+      "channel_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/AnimalPlanetHDHin_BTS/WDVLive/index.mpd",
+      "channel_logo": "https://img.media.jio.com/tvpimages/26/73/304073_1765355359653_l_medium.jpg",
+      "channel_genre": "Infotainment",
+      "license_key": "6e56dee54bd4596b8ba528012fd3c7e7:c10f10e9b4926b13a6627c99ec0fae1c",
+      "key": "yes"
+  },
+  {
+      "content_id": "302089",
+      "channel_id": "1332",
+      "channel_name": "Nat Geo Wild HD",
+      "language": "English",
+      "channel_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/index.mpd",
+      "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11631-j9k0ndjc-v1/imageContent-11631-j9k0ndjc-m1.png",
+      "channel_genre": "Infotainment",
+      "license_key": "45fc661aa1af51c98950c43329391d18:c2677c874886e78d24b3fb656c5734e0",
+      "key": "yes"
+  },
+  {
+      "content_id": "302088",
+      "channel_id": "1375",
+      "channel_name": "Disney International HD",
+      "language": "English",
+      "channel_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Disney_International_HD_BTS/WDVLive/index.mpd",
+      "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_International_HD.png",
+      "channel_genre": "Kids",
+      "license_key": "d0e021aa91c65e68a7028c2a6a762eca:d50822403365e360d12840251cecee84",
+      "key": "yes"
+  },
+  {
+      "content_id": "302076",
+      "channel_id": "1335",
+      "channel_name": "National Geographic HD",
+      "language": "English",
+      "channel_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/National_Geographic_HD_BTS/WDVLive/index.mpd",
+      "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12234-j9qoqc54-v1/imageContent-12234-j9qoqc54-m1.png",
+      "channel_genre": "Infotainment",
+      "license_key": "4b006dd7965e5777a7fa33dd636c2e5d:179f796bdf11b750bebd469a3aeae1d0",
+      "key": "yes"
+  },
+  {
+      "content_id": "301584",
+      "channel_id": "559",
+      "channel_name": "Pogo",
+      "language": "Hindi",
+      "channel_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Pogo_Hindi_BTS/WDVLive/index.mpd",
+      "channel_logo": "https://img.media.jio.com/imagespublic/22/35/301584_1707144670480_l_medium.jpg",
+      "channel_genre": "Kids",
+      "license_key": "4b967f351139503a88b1d1945203150b:c3e26279cc513e13154958f934141dc0",
+      "key": "yes"
+  },
+  {
+      "content_id": "301585",
+      "channel_id": "816",
+      "channel_name": "Cartoon Network",
+      "language": "Hindi",
+      "channel_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/CNHindi_BTS/WDVLive/index.mpd",
+      "channel_logo": "https://img.media.jio.com/imagespublic/27/39/301585_1707144331370_l_medium.jpg",
+      "channel_genre": "Kids",
+      "license_key": "ea48cf7b24dd54dd98c369626b9ad105:ee5778d627dfae2c2affc02d76e8db6c",
+      "key": "yes"
   }
 ]
