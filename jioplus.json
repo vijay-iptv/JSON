@@ -319,6 +319,28 @@
     "key": "yes"
   },
   {
+    "content_id": "304278",
+    "channel_id": "1664",
+    "channel_name": "7S Music",
+    "language": "Tamil",
+    "channel_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/7SMusic_BTS/WDVLive/index.mpd",
+    "channel_logo": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/7s_Music.png",
+    "channel_genre": "Music",
+    "license_key": "7fbca27f1de95241963dbf8ad9c85ade:7f71987978c403c7d78fd4ae92990496",
+    "key": "yes"
+  },
+  {
+    "content_id": "304270",
+    "channel_id": "3610",
+    "channel_name": "Dhool TV",
+    "language": "Tamil",
+    "channel_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/DhoolTV_BTS/WDVLive/index.mpd",
+    "channel_logo": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Dhool_TV.png",
+    "channel_genre": "Music",
+    "license_key": "7fbca27f1de95241963dbf8ad9c85ade:7f71987978c403c7d78fd4ae92990496",
+    "key": "yes"
+  },
+  {
     "content_id": "301192",
     "channel_id": "767",
     "channel_name": "Raj News 24x7",
