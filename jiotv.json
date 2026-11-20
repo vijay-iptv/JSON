@@ -8013,12 +8013,12 @@
   {
     "language": "Tamil",
     "channel_id": "2434",
-    "channel_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/M_Nadu_MOB/WDVLive/index.mpd",
+    "channel_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/mnadu/HLSPartner/index.m3u8",
     "channel_logo": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/M_Nadu.png",
     "channel_name": "M Nadu",
     "channel_genre": "Tamil",
-    "license_key": "6bf1e64e6c2d5191a5cbdd84dd7d17b7:b6a72f81fdc9257bfed6b49509f36a82",
-    "key": "yes"
+    "license_key": null,
+    "key": "no"
   },
   {
     "language": "Assamese",
@@ -10664,29 +10664,29 @@
     "language": "Tamil",
     "channel_id": "3356",
     "channel_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/suriyantvtamil/HLSPartner/index.m3u8",
-    "channel_logo": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Rock_TV.png",
-    "channel_name": "Rock TV",
+    "channel_logo": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/BoxHD.png",
+    "channel_name": "Box HD",
     "channel_genre": "Tamil",
     "license_key": null,
     "key": "no"
   },
   {
-    "language": "Unknown",
+    "language": "Tamil",
     "channel_id": "3357",
     "channel_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/dharshantvtamil/HLSPartner/index.m3u8",
-    "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/dharshantvtamil.png",
+    "channel_logo": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Dharsan_TV.png",
     "channel_name": "Dharsan TV",
-    "channel_genre": "Unknown",
+    "channel_genre": "Tamil",
     "license_key": null,
     "key": "no"
   },
   {
-    "language": "Unknown",
+    "language": "Tamil",
     "channel_id": "3358",
     "channel_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/aanadhamtvtamil/HLSPartner/index.m3u8",
-    "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/aanadhamtvtamil.png",
+    "channel_logo": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Bhagyam_TV.png",
     "channel_name": "Bhagyam TV",
-    "channel_genre": "Unknown",
+    "channel_genre": "Tamil",
     "license_key": null,
     "key": "no"
   },
@@ -11739,5 +11739,45 @@
     "channel_genre": "Sports",
     "license_key": "59414fca13b95985ad38ba9074840a81:16e62faf7f2ef75112ebb98377a2a03e",
     "key": "yes"
+  },
+  {
+    "language": "Tamil",
+    "channel_id": "3610",
+    "channel_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/DhoolTV_MOB/WDVLive/index.mpd",
+    "channel_logo": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Dhool_TV.png",
+    "channel_name": "Dhool TV",
+    "channel_genre": "Tamil",
+    "license_key": "59414fca13b95985ad38ba9074840a81:16e62faf7f2ef75112ebb98377a2a03e",
+    "key": "yes"
+  },
+  {
+    "language": "Tamil",
+    "channel_id": "1664",
+    "channel_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/7SMusic_MOB/WDVLive/index.mpd",
+    "channel_logo": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/7s_Music.png",
+    "channel_name": "7S Music",
+    "channel_genre": "Tamil",
+    "license_key": "59414fca13b95985ad38ba9074840a81:16e62faf7f2ef75112ebb98377a2a03e",
+    "key": "yes"
+  },
+  {
+    "language": "Tamil",
+    "channel_id": "3279",
+    "channel_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/OM_TV_MOB/WDVLive/index.mpd",
+    "channel_logo": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/OM_TV.png",
+    "channel_name": "OM TV",
+    "channel_genre": "Tamil",
+    "license_key": "59414fca13b95985ad38ba9074840a81:16e62faf7f2ef75112ebb98377a2a03e",
+    "key": "yes"
+  },
+  {
+    "language": "Tamil",
+    "channel_id": "3550",
+    "channel_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/nijamtv/HLSPartner/index.m3u8",
+    "channel_logo": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Nijam_TV.png",
+    "channel_name": "Nijam TV",
+    "channel_genre": "Tamil",
+    "license_key": null,
+    "key": "no"
   }
 ]
