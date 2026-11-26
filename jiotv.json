@@ -7423,7 +7423,7 @@
   {
     "language": "Sports",
     "channel_id": "1124",
-    "channel_url": "https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_1_Tamil_BTS/WDVLive/index.mpd",
+    "channel_url": "https://jiotvmblive.cdn.jio.com//bpk-tv/Star_Sports_1_Tamil_MOB/WDVLive/index.mpd",
     "channel_logo": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Sports_1_Tamil.png",
     "channel_name": "Star Sports 1 Tamil",
     "channel_genre": "Sports",
@@ -7483,8 +7483,8 @@
   {
     "language": "Sports",
     "channel_id": "2853",
-    "channel_url": "https://jiotvpllive.cdn.jio.com//bpk-tv/Sports18_3_MOB/WDVCatchup/index.mpd",
-    "channel_logo": "https://img.media.jio.com/tvpimages/74/92/301561_1749664725619_l_medium.jpg",
+    "channel_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/StarSports2Tamil_MOB/WDVLive/index.mpd",
+    "channel_logo": "https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Sports_2_Tamil.png",
     "channel_name": "Star Sports 2 Tamil",
     "channel_genre": "Sports",
     "license_key": "3979aae1ca51561c9e8074cd618b3864:ae12e0e147d3e76cfa62bfb99bc07109",
